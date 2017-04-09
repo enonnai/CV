@@ -46,7 +46,7 @@ I was brought up in a bilingual family, currently speak five languages and have 
 
 ## Work Experience
 
-**Product Madness** (Jun 2016 - Mar 2017)
+**Product Madness** (Jun 2016 - Mar 2017)  
 *Senior Mobile QA Tester*
 
 - Ensure all mobile projects (Android, iOS & Amazon) are released to the highest quality both in terms of defect mitigation and user experience
@@ -57,7 +57,7 @@ I was brought up in a bilingual family, currently speak five languages and have 
 - Work closely with Customer Support to investigate, document and where necessary push for swift resolution
 - Support multi-tester projects, and a team of junior testers
 
-**Hearst Magazine** (Sep 2015 - Jun 2016)
+**Hearst Magazine** (Sep 2015 - Jun 2016)  
 *QA Test Analyst*
 
 - Test coverage for web based projects - desktop and mobile (iOS, Android)
@@ -68,13 +68,13 @@ I was brought up in a bilingual family, currently speak five languages and have 
 - Working on site migration projects
 - Responsible for the training and mentoring of a junior QA member
 
-**Gamesys** (Nov 2014 - Sep 2015)
+**Gamesys** (Nov 2014 - Sep 2015)  
 *QA Technician*
 
-**Testronic** (Jul 2013 - Oct 2014)
+**Testronic** (Jul 2013 - Oct 2014)  
 *Localisation and functional QA Tester*
 
-**WebInterpret** (Jun 2013 - Aug 2015)
+**WebInterpret** (Jun 2013 - Aug 2015)  
 *Translator and Quality Controller*
 
 ## Education
@@ -88,7 +88,7 @@ I was brought up in a bilingual family, currently speak five languages and have 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### DPSI Online course (Diploma in Public Service Interpreting (2014)
+#### DPSI (Diploma in Public Service Interpreting) - Online course (2014)
 
 - Learn and understand the English legal system, as well as the legal system of Other Language country
 - Practice interpreting skills with a dedicated language tutor doing role-plays, sight translations and written translations into both English and the Other Language, which will be marked according to the National Qualifications Framework Level 6
