@@ -88,6 +88,8 @@ I was brought up in a bilingual family, currently speak five languages and have 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+Feel free to check my blog about my Maker's journey at https://enonnai.wordpress.com/.
+
 #### DPSI (Diploma in Public Service Interpreting) - Online course (2014)
 
 - Learn and understand the English legal system, as well as the legal system of Other Language country
