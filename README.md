@@ -1,6 +1,6 @@
 ## Cristina Iannone
 
-[Skills](#skills) | [Education](#education) | [Work-Experience](#work-experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/)|
+[Skills](#skills) | [Education](#education) | [Work-Experience](#work-experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/)| [Interests](#interests)
 
 Being a multilingual speaker, I started out my career in IT working as Localisation QA Tester, but have been working mainly as functional QA, testing webistes, web-based applications and mobile Apps.
 
@@ -107,3 +107,7 @@ Feel free to check my blog about my Maker's journey at https://enonnai.wordpress
 
 **WebInterpret** (Jun 2013 - Aug 2015)  
 *Translator and Quality Controller*
+
+## Interests
+
+- Languages, heavy metal, videogames, travelling
