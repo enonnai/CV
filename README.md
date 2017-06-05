@@ -1,6 +1,6 @@
 ## Cristina Iannone
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/)|
+[Skills](#skills) | [Education](#education) | [Work-Experience](#work-experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/)|
 
 Being a multilingual speaker, I started out my career in IT working as Localisation QA Tester, but have been working mainly as functional QA, testing webistes, web-based applications and mobile Apps.
 
