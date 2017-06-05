@@ -1,5 +1,7 @@
 ## Cristina Iannone
 
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/)|
+
 Being a multilingual speaker, I started out my career in IT working as Localisation QA Tester, but have been working mainly as functional QA, testing webistes, web-based applications and mobile Apps.
 
 However, I have always been interested in the technical aspects of how websites and Apps work, further than simply working on them as a manual tester. I came to the conclusion that it would not be possible to advance in that direction without taking a sharp turn. I believe that my personal drive and Makers Academy's engine will help me divert my route and take that just mentioned turn, as I see myself working as a full stack junior developer either in a startup or in a big organisation in London.
@@ -38,11 +40,40 @@ Because I have always been mindful of details, be it when I code, read, test, pl
 
 #### Multiculturalism
 
-I was brought up in a bilingual family, currently speak five languages and have lived in four countries. I also have:
+Having been brought up in a bilingual family, I have loved experiencing different cultures from an early stage.
 
 - Worked in multilingual/multicultural companies in London
 - Worked remotely with team members based overseas
-- Took the DPSI in English Law (Diploma in Public Service Interpreting) out of pleasure
+- Proficient in English, Italian, Spanish and Portuguese. Good French.
+- Lived in 3 countries
+
+## Education
+
+#### Makers Academy (April 10 2017 to June 30 2017)
+
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular.js
+- Rspec, Jasmine, Mocha
+
+Feel free to check my blog about my Maker's journey at https://enonnai.wordpress.com.
+
+#### DPSI (Diploma in Public Service Interpreting) - Online course (2014)
+
+- Learn and understand the English legal system, as well as the legal system of Other Language country
+- Practice interpreting skills with a dedicated language tutor doing role-plays, sight translations and written translations into both English and the Other Language, which will be marked according to the National Qualifications Framework Level 6
+
+#### Master's degree in Foreign Languages and Literature, First Class Honours - Salerno, Italy (2010 - 2012)
+- Language, literature and translation studies (English and Spanish)
+
+#### University of Extremadura, Spain - Erasmus programme (2007 - 2008)
+- Field of study exams include: Spanish Language and Literature III, French I, Translation Studies
+
+#### Master's degree in Foreign Languages and Literature, First Class Honours - Salerno, Italy (2005 - 2010)
+- Language, literature, translation studies (English and Spanish) and information studies (HTML, CSS).
+- Bulit a simple website
 
 ## Work Experience
 
@@ -76,31 +107,3 @@ I was brought up in a bilingual family, currently speak five languages and have 
 
 **WebInterpret** (Jun 2013 - Aug 2015)  
 *Translator and Quality Controller*
-
-## Education
-
-#### Makers Academy (April 10 2017 to June 30 2017)
-
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-Feel free to check my blog about my Maker's journey at https://enonnai.wordpress.com/.
-
-#### DPSI (Diploma in Public Service Interpreting) - Online course (2014)
-
-- Learn and understand the English legal system, as well as the legal system of Other Language country
-- Practice interpreting skills with a dedicated language tutor doing role-plays, sight translations and written translations into both English and the Other Language, which will be marked according to the National Qualifications Framework Level 6
-
-#### Master's degree in Foreign Languages and Literature, First Class Honours - Salerno, Italy (2010 - 2012)
-- Language, literature and translation studies (English and Spanish)
-
-#### University of Extremadura, Spain - Erasmus programme (2007 - 2008)
-- Field of study exams include: Spanish Language and Literature III, French I, Translation Studies
-
-#### Master's degree in Foreign Languages and Literature, First Class Honours - Salerno, Italy (2005 - 2010)
-- Language, literature, translation studies (English and Spanish) and information studies (HTML, CSS).
-- Bulit a simple website
