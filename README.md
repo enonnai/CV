@@ -4,7 +4,7 @@
 
 Being a multilingual speaker, I started out my career in IT working as Localisation QA Tester, but have been working mainly as functional QA, testing webistes, web-based applications and mobile Apps.
 
-However, I have always been interested in the technical aspects of how websites and Apps work, further than simply working on them as a manual tester. I came to the conclusion that it would not be possible to advance in that direction without taking a sharp turn. Hence I joined Makers Academy, as I believed that my personal drive and Makers Academy's engine will help me divert my route and take that just mentioned turn. I see myself working as junior developer either in either a startup or a medium-sized organisation in London.
+However, I have always been interested in the technical aspects of how websites and Apps work, further than simply working on them as a manual tester. I came to the conclusion that it would not be possible to advance in that direction without taking a sharp turn. Hence I joined Makers Academy, as I believed that my personal drive and Makers Academy's engine will help me divert my route and take that just mentioned turn. I see myself working as junior developer in either a startup or a medium-sized organisation in London.
 
 ## Skills
 
