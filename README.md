@@ -4,26 +4,26 @@
 
 Being a multilingual speaker, I started out my career in IT working as Localisation QA Tester, but have been working mainly as functional QA, testing webistes, web-based applications and mobile Apps.
 
-However, I have always been interested in the technical aspects of how websites and Apps work, further than simply working on them as a manual tester. I came to the conclusion that it would not be possible to advance in that direction without taking a sharp turn. I believe that my personal drive and Makers Academy's engine will help me divert my route and take that just mentioned turn, as I see myself working as a full stack junior developer either in a startup or in a big organisation in London.
+However, I have always been interested in the technical aspects of how websites and Apps work, further than simply working on them as a manual tester. I came to the conclusion that it would not be possible to advance in that direction without taking a sharp turn. Hence I joined Makers Academy, as I believed that my personal drive and Makers Academy's engine will help me divert my route and take that just mentioned turn. I see myself working as junior developer either in either a startup or a medium-sized organisation in London.
 
 ## Skills
 
 #### Communication
 
-I believe in communicating 'effectively'. It entails being positive, clear and inquisitive. Listening is equally important, to ensure you reflect on what the other person is saying to avoid misunderstandings. I have been praised in different occasions for being an excellent communicator:
+I believe in communicating 'effectively'. It entails being positive, clear and inquisitive. Listening and then asking questions if needed is equally important, as to avoid misunderstandings which may lead to time loss. I have been praised in different occasions for being an excellent communicator:
 
 - 'Cristina is approachable, a great communicator and listener, too.' - my ex boss about me.
-At my last work place before starting Makers, Product Madness, my line manager and other teams' members recognised how well I related to the people I worked with, and also on how I would always keep a friendly and positive attitude.
+At my last work place, Product Madness, my line manager and other teams' members recognised how well I related to the people I worked with, and also on how I would always keep a friendly and positive attitude.
 
 - Working with colleagues in different time zones
-In three companies I worked with team members 5 or 6 hours behind us. Hence, as software tester it was key to log clear, detailed and precise defects as well as to be proactive, helpful and attentive during our standup calls to keep the oversea team well up to date to what had been going on during our morning in London.
+In three companies I worked with team members in a different time zone. As software tester, it was key to log clear, detailed and precise defects as well as to be attentive and helpful during our remote standup calls.
 
 - Multilingual Tourist Info Point Assistant
-During this university's internship I excelled at helping out tourists thanks to my language and communication skills (English, Spanish, Portuguese, French and Italian) and demonstrated to be a proactive worker (e.g. managing longer queues of tourists by organising them into small groups sorted by language).
+During this university's internship I excelled at helping out tourists thanks to my good communication skills and spoken languages (English, Spanish, Portuguese, Italian and French) and demonstrated to be a proactive worker (e.g. managing long queues of tourists by organising them into small groups sorted by language).
 
 #### Organisation
 
-Being not very organised is a bad idea, in any job and also in our private life. A few examples of how I demonstrated being organised:
+An important quality in any job and also in our private life. A few examples of how I demonstrated being organised:
 
 - Contributed to the organisation of the work flow by suggesting creating or reviewing processes (e.g. suggested the Head of QA to create a shared Google Drive folder subdivided into months so that our developers could upload local builds there instead of dropping them via Slack)
 - Contributed to the development of QA apprentice by writing down a detailed guide to applications and providing him with tasks to perform based on personal experience and available documentation
@@ -31,7 +31,7 @@ Being not very organised is a bad idea, in any job and also in our private life.
 
 #### Attention to detail
 
-Because I have always been mindful of details, be it when I code, read, test, play videogames or cook.
+I have always been mindful of details, be it when I test, code or read a specification document.
 
 - Achieved the 'employee of the week' nominee while at Gamesys for logging more than 30 bugs against one feature
 - At Product Madness, noticed that big title missing from our game pack drop, which required a new one
@@ -110,4 +110,4 @@ Feel free to check my blog about my Maker's journey at https://enonnai.wordpress
 
 ## Interests
 
-- Languages, heavy metal, videogames, travelling
+- Programming and foreign languages, web-based Apps, travelling, heavy metal, videogames
