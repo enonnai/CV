@@ -58,7 +58,7 @@ Having been brought up in a bilingual family, I have loved experiencing differen
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-Feel free to check my blog about my Maker's journey at https://enonnai.wordpress.com.
+Feel free to check out my blog about my Maker's journey at https://enonnai.wordpress.com.
 
 #### DPSI (Diploma in Public Service Interpreting) - Online course (2014)
 
