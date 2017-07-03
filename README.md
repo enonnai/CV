@@ -16,6 +16,7 @@ For a complete list, see my Github.
  
 | Project   | Description | Technologies |
 |---        |---         |---           |
+|[feedr](https://github.com/DSeanGray/feedr)| Makers Academy Remote April 2017 final project designed and developed in 1 week and a half within a small team - check out my commits! | Ruby, Rails 5, RSpec/Capybara, Selenium Web-Driver, PostgreSQL, HTML, CSS, Bootstrap, Heroku|
 | [Metalshot](https://github.com/enonnai/instagram-challenge) | Built over two days as it was one of our weekend challenges, I created an Instagram replica with a specific target audience in order to bring together people with the same music interest. | Ruby, Ruby on Rails, RSpec/Capybara, Postgres /w ActiveRecord, Devise, Paperclip, AWS, Amazon S3 buckets, Twitter Bootstrap CSS, HTML, Heroku deployment |
 | [MakersBnB](https://github.com/anaalta/MakersBnB) | An AirBnB clone made in a team of five during our very first group project. We were praised for writing a lot of functionalities in such a short amount of time (less than 4 working days) . | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML |
 |[Chitter](https://github.com/enonnai/chitter-challenge)|  A twitter replica made over a weekend. As we were one month on the course, one of the most challenging bit was creating the user Sign Up/Log In functionality using BCrypt. | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML, Heroku deployment|
