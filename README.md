@@ -3,9 +3,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work-Experience](#work-experience) | [LinkedIn](https://www.linkedin.com/in/cristina-iannone-87266152//) | [Blog](https://enonnai.wordpress.com/) | [Interests](#interests)
  
-Former Software Tester with a keen interest in the technical aspects of how websites and Apps work, which led me to make the best decision I could  have makd.After a two month preparation/two months of preparation, I have been studying at Makers Academy for 16 intensive weeks, where I have been learning the fundamentals of software development by working on different and more and more challenging projects (both solo and as part of a team).
+Former Software Tester with a keen interest in the technical aspects of how websites and Apps work, which led me to make the best decision I could have made. After two months of preparation, I have been studying at Makers Academy for 16 intensive weeks, where I have been learning the fundamentals of software development by working on different and more and more challenging projects (both solo and as part of a team).
  
-My experience at Makers Academy has also ingrained in me the importance of best coding practises. I am now looking forward to being part of a team where pair programming, communication and knowledge sharing is key for both the success of the company and for reaching personal goals, as I believe that learning every day and seeing your product grow and improve is one of the most rewarding and satisfying aspects about being a software engineer. 
+My experience at Makers Academy has also ingrained in me the importance of best coding practises. I am now looking forward to being part of a team where pair programming, communication and knowledge sharing is key for both the success of the company and for reaching personal goals, as I believe that learning every day and seeing your product grow and improve is one of the most rewarding and satisfying aspects of being a software engineer. 
  
 Tech Skills: Ruby, Rails, RSpec, Capybara, Sinatra, HTML, CSS, JavaScript, jQuery, Jasmine, Bootstrap, PostgreSQL
  
@@ -18,14 +18,14 @@ For a complete list, see my Github.
 |---        |---         |---           |
 |[feedr](https://github.com/DSeanGray/feedr)| Makers Academy Remote April 2017 final project designed and developed in 1 week and a half within a small team - check out my commits! | Ruby, Rails 5, RSpec/Capybara, Selenium Web-Driver, PostgreSQL, HTML, CSS, Bootstrap, Heroku|
 | [Metalshot](https://github.com/enonnai/instagram-challenge) | Built over two days as it was one of our weekend challenges, I created an Instagram replica with a specific target audience in order to bring together people with the same music interest. | Ruby, Ruby on Rails, RSpec/Capybara, Postgres /w ActiveRecord, Devise, Paperclip, AWS, Amazon S3 buckets, Twitter Bootstrap CSS, HTML, Heroku deployment |
-| [MakersBnB](https://github.com/anaalta/MakersBnB) | An AirBnB clone made in a team of five during our very first group project. We were praised for writing a lot of functionalities in such a short amount of time (less than 4 working days) . | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML |
-|[Chitter](https://github.com/enonnai/chitter-challenge)|  A twitter replica made over a weekend. As we were one month on the course, one of the most challenging bit was creating the user Sign Up/Log In functionality using BCrypt. | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML, Heroku deployment|
+| [MakersBnB](https://github.com/anaalta/MakersBnB) | An AirBnB clone made in a team of five during our very first group project. We were praised for writing a lot of functionality in such a short amount of time (less than 4 working days). | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML |
+|[Chitter](https://github.com/enonnai/chitter-challenge)|  A Twitter replica made over a weekend. As we were only one month into the course, one of the most challenging bits was creating the user Sign Up/Log In functionality using BCrypt. | Ruby, RSpec/Capybara, Sinatra, Postgres /w DataMapper, HTML, Heroku deployment|
  
 ## Skills
  
 #### Communication
  
-I believe in communicating 'effectively'. It entails being positive, clear and inquisitive. Listening and then asking questions if needed is equally important, as to avoid misunderstandings which may lead to time loss:
+I believe in communicating 'effectively'. It entails being positive, clear and inquisitive. Listening and then asking questions if needed is equally important, to avoid misunderstandings which may lead to time loss:
  
 - 'Cristina is approachable, a great communicator and listener, too.' - my ex boss about me.
 At my last workplace, Product Madness, my line manager and other teams' members recognised how well I related to the people I worked with, and also on how I would always keep a friendly and positive attitude.
@@ -88,7 +88,7 @@ Feel free to check out my blog about my Maker's journey at https://enonnai.wordp
  
 #### Master's degree in Foreign Languages and Literature, First Class Honours - Salerno, Italy (2005 - 2010)
 - Language, literature, translation studies (English and Spanish) and information studies (HTML, CSS).
-- Bulit a simple website
+- Built a simple website
  
 ## Work Experience
  
